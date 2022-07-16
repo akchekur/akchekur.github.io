@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Akhila Chekuri (@akchekur)
+- 👀 I’m interested in Machine Learning, Computer Vision and Data Science
+- 🌱 I’m currently pursuing Masters in Computer Science at University of California San Diego
+- 📫 You can reach me at akchekur@ucsd.edu
